@@ -1,0 +1,35 @@
+h1,
+h2,
+h3,
+h4 {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+h1 {
+  outline: 2px dotted red;
+}
+h2 {
+  outline: 2px dotted blue;
+  float: left;
+  width: 50%;
+  font-style: italic;
+}
+h3 {
+  outline: 2px dotted yellow;
+  float: right;
+  width: 50%;
+}
+footer {
+  position: relative;
+  top: 200px;
+  outline: 2px dotted green;
+  width: 100%;
+  text-align: center;
+  font-size: 12px;
+  line-height: 14px;
+  background-color: #bada55;
+}
+p {
+  text-align: center;
+}
